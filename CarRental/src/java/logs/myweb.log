@@ -1,0 +1,43 @@
+2021-04-22 16:11:10 ERROR RegistrationServlet: servlets.RegistrationServlet processRequest - Error at RegistrationServlet:java.lang.NullPointerException
+2021-04-22 16:11:29 ERROR RegistrationServlet: servlets.RegistrationServlet processRequest - Error at RegistrationServlet:javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials x18sm4687651pjn.51 - gsmtp
+
+2021-04-22 16:15:39 ERROR RegistrationServlet: servlets.RegistrationServlet processRequest - Error at RegistrationServlet:javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials j11sm1418990pfj.182 - gsmtp
+
+2021-04-22 16:17:00 ERROR RegistrationServlet: servlets.RegistrationServlet processRequest - Error at RegistrationServlet:javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials f2sm1621380pfe.177 - gsmtp
+
+2021-04-23 15:44:38 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:45:23 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:45:56 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:46:29 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:46:29 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:46:30 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:46:30 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:46:31 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:46:32 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:46:33 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:46:35 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:51:16 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:51:24 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:51:25 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:51:26 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:51:27 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:51:28 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:55:37 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 15:56:40 ERROR SearchCarServlet: servlets.SearchCarServlet processRequest - Error at SearchCarServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-23 18:29:36 ERROR UserCartServlet: servlets.user.UserCartServlet doPost - Error at UserCartController:java.lang.NullPointerException
+2021-04-23 18:31:46 ERROR UserCartServlet: servlets.user.UserCartServlet doPost - Error at UserCartController:java.lang.NullPointerException
+2021-04-23 18:32:40 ERROR UserCartServlet: servlets.user.UserCartServlet doPost - Error at UserCartController:java.lang.NullPointerException
+2021-04-23 18:54:28 ERROR UpdateCartServlet: servlets.user.UpdateCartServlet processRequest - Error at UpdateCartServlet:java.lang.NumberFormatException: For input string: "id"
+2021-04-23 18:54:29 ERROR UpdateCartServlet: servlets.user.UpdateCartServlet processRequest - Error at UpdateCartServlet:java.lang.NumberFormatException: For input string: "id"
+2021-04-23 18:54:30 ERROR UpdateCartServlet: servlets.user.UpdateCartServlet processRequest - Error at UpdateCartServlet:java.lang.NumberFormatException: For input string: "id"
+2021-04-23 18:54:30 ERROR UpdateCartServlet: servlets.user.UpdateCartServlet processRequest - Error at UpdateCartServlet:java.lang.NumberFormatException: For input string: "id"
+2021-04-23 18:54:30 ERROR UpdateCartServlet: servlets.user.UpdateCartServlet processRequest - Error at UpdateCartServlet:java.lang.NumberFormatException: For input string: "id"
+2021-04-23 18:58:59 ERROR UserCartServlet: servlets.user.UserCartServlet doPost - Error at UserCartController:java.lang.Exception
+2021-04-24 19:49:28 ERROR DiscountServlet: servlets.user.DiscountServlet processRequest - Error at UserCartController:java.lang.NullPointerException
+2021-04-24 20:43:03 ERROR ViewHistoryServlet: servlets.user.ViewHistoryServlet processRequest - Error at ViewHistoryServlet:java.lang.NullPointerException
+2021-04-24 20:43:24 ERROR ViewHistoryServlet: servlets.user.ViewHistoryServlet processRequest - Error at ViewHistoryServlet:java.lang.NullPointerException
+2021-04-24 20:43:53 ERROR ViewHistoryServlet: servlets.user.ViewHistoryServlet processRequest - Error at ViewHistoryServlet:java.lang.NullPointerException
+2021-04-24 20:44:51 ERROR ViewHistoryServlet: servlets.user.ViewHistoryServlet processRequest - Error at ViewHistoryServlet:java.lang.NullPointerException

@@ -1,0 +1,69 @@
+2021-04-17 08:21:22 ERROR RegistrationServlet: servlets.RegistrationServlet processRequest - Error at RegistrationServlet:java.lang.NullPointerException
+2021-04-17 16:10:10 ERROR AddNewQuestionServlet: servlets.admin.AddNewQuestionServlet processRequest - Error at RegistrationServlet:java.lang.NullPointerException
+2021-04-17 16:10:20 ERROR AddNewQuestionServlet: servlets.admin.AddNewQuestionServlet processRequest - Error at RegistrationServlet:java.lang.NullPointerException
+2021-04-17 16:26:22 ERROR AddNewQuestionServlet: servlets.admin.AddNewQuestionServlet processRequest - Error at RegistrationServlet:java.lang.NullPointerException
+2021-04-17 17:37:41 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NumberFormatException: For input string: "none"
+2021-04-17 17:40:27 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NumberFormatException: For input string: "none"
+2021-04-17 17:42:10 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NumberFormatException: For input string: "none"
+2021-04-17 17:42:27 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NumberFormatException: For input string: "none"
+2021-04-17 18:09:14 ERROR AddNewQuestionServlet: servlets.admin.AddNewQuestionServlet processRequest - Error at AddNewQuestionServlet:java.lang.NullPointerException
+2021-04-17 18:56:30 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NullPointerException
+2021-04-17 19:00:40 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NullPointerException
+2021-04-17 19:01:38 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NullPointerException
+2021-04-17 19:01:50 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NullPointerException
+2021-04-17 19:02:38 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NullPointerException
+2021-04-17 19:09:11 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NullPointerException
+2021-04-17 19:11:27 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NullPointerException
+2021-04-17 19:12:13 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NullPointerException
+2021-04-17 19:13:15 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NullPointerException
+2021-04-18 18:10:41 ERROR UpdateQuestionServlet: servlets.admin.UpdateQuestionServlet processRequest - Error at UpdateQuestionServlet:java.lang.NumberFormatException: For input string: "answerID1Update"
+2021-04-19 08:41:47 ERROR SearchQuestionServlet: servlets.admin.SearchQuestionServlet processRequest - Error at SearchQuestionServlet:java.lang.NumberFormatException: For input string: ""
+2021-04-19 09:05:37 ERROR UpdateQuestionServlet: servlets.admin.UpdateQuestionServlet processRequest - Error at UpdateQuestionServlet:java.lang.NullPointerException
+2021-04-19 17:22:24 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NullPointerException
+2021-04-19 17:24:02 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-19 17:24:32 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NumberFormatException: null
+2021-04-19 17:25:00 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-19 17:25:39 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NumberFormatException: null
+2021-04-19 17:25:45 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NumberFormatException: null
+2021-04-19 17:26:30 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NumberFormatException: null
+2021-04-19 17:27:15 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-19 17:27:33 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NumberFormatException: null
+2021-04-19 17:27:47 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-19 17:45:58 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NumberFormatException: null
+2021-04-19 17:46:58 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NumberFormatException: null
+2021-04-19 17:47:16 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NumberFormatException: null
+2021-04-19 17:47:41 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NumberFormatException: null
+2021-04-19 17:48:04 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NumberFormatException: null
+2021-04-19 17:49:19 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NumberFormatException: null
+2021-04-19 17:50:24 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NumberFormatException: null
+2021-04-19 18:33:29 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-19 18:43:17 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-19 18:43:49 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-19 18:44:03 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-19 18:52:53 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-19 19:46:27 ERROR QuizSubmitServlet: servlets.student.QuizSubmitServlet processRequest - Error at QuizSubmitServlet:java.lang.NullPointerException
+2021-04-19 20:38:12 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-19 20:38:48 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-19 20:38:49 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-19 20:39:04 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-19 20:39:46 ERROR QuizNextQuestion: servlets.student.QuizNextQuestion processRequest - Error at QuizNextQuestionServlet:java.lang.NumberFormatException: null
+2021-04-20 07:18:20 ERROR QuizNextQuestion: servlets.student.QuizNextQuestion processRequest - Error at QuizNextQuestionServlet:java.lang.NumberFormatException: null
+2021-04-20 07:20:08 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-20 07:23:23 ERROR QuizNextQuestion: servlets.student.QuizNextQuestion processRequest - Error at QuizNextQuestionServlet:java.lang.NumberFormatException: null
+2021-04-20 07:24:45 ERROR QuizSubmitServlet: servlets.student.QuizSubmitServlet processRequest - Error at QuizSubmitServlet:java.lang.NumberFormatException: null
+2021-04-20 07:32:13 ERROR QuizNextQuestion: servlets.student.QuizNextQuestion processRequest - Error at QuizNextQuestionServlet:java.lang.IndexOutOfBoundsException: Index: 5, Size: 5
+2021-04-20 07:40:11 ERROR AddNewQuestionServlet: servlets.admin.AddNewQuestionServlet processRequest - Error at AddNewQuestionServlet:java.lang.NullPointerException
+2021-04-20 07:47:44 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-20 07:48:09 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-20 08:23:04 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-20 08:32:35 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-20 08:32:45 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-20 09:34:13 ERROR QuizSubmitServlet: servlets.student.QuizSubmitServlet processRequest - Error at QuizSubmitServlet:java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.String
+2021-04-20 09:38:33 ERROR QuizSubmitServlet: servlets.student.QuizSubmitServlet processRequest - Error at QuizSubmitServlet:java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.String
+2021-04-20 09:38:33 ERROR QuizSubmitServlet: servlets.student.QuizSubmitServlet processRequest - Error at QuizSubmitServlet:java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.String
+2021-04-20 09:42:00 ERROR QuizSubmitServlet: servlets.student.QuizSubmitServlet processRequest - Error at QuizSubmitServlet:java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.String
+2021-04-20 09:43:37 ERROR QuizSubmitServlet: servlets.student.QuizSubmitServlet processRequest - Error at QuizSubmitServlet:java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.String
+2021-04-20 09:58:12 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.Exception
+2021-04-27 08:48:37 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2021-04-27 08:48:47 ERROR QuizSubmitServlet: servlets.student.QuizSubmitServlet processRequest - Error at QuizSubmitServlet:java.lang.NullPointerException
+2021-04-27 08:51:48 ERROR GenerateQuizServlet: servlets.student.GenerateQuizServlet processRequest - Error at GenerateQuizServlet:java.lang.NullPointerException
